@@ -15,13 +15,15 @@ Hi Guys! I Am Belgin Android. A 17 Year Old Self Learnt Devoloper. Just Complete
  
  ### Programming Languages 🌐
 
- [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
+<img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> 
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+
  
  ### Tools 🛠️
+ &ensp;&ensp;&ensp;![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=fff) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) 
  
- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)
-
 [![Belgin Androis's github stats](https://github-readme-stats.vercel.app/api?username=belgin-android&show_icons=true&title_color=151515&icon_color=79ff97&text_color=151515f&bg_color=fff)](https://github.com/belgin-android)
+0
