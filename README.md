@@ -17,7 +17,6 @@ Hi Guys! I Am Belgin Android. A 17 Year Old Self Learnt Devoloper. Just Complete
  ### Programming Languages 🌐
 
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
 <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> 
 
