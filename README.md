@@ -2,7 +2,7 @@
 
 # :man_technologist: Belgin Android
 
-Hi Guys! I Am Belgin Android. A 17 Year Old Self Learnt Devoloper. Just Completed Schooling . Very Much Intrested In Building Apps Using REACT NATIVE And Creating Awesome Programs In PYTHON And JAVA . Check Out Repo's For All Projects And Codes . 
+Hi Guys! I Am Belgin Android. A 17 Year Old Self Learnt Devoloper. Just Completed Schooling . Very Much Intrested In Building Apps Using REACT NATIVE And Creating Awesome Programs In PYTHON Check Out Repo's For All Projects And Codes . 
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/Belgin-Android)
