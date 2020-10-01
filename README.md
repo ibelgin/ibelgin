@@ -23,7 +23,7 @@ Hi Guys! I Am Belgin Android. A 17 Year Old Self Learnt Devoloper. Just Complete
  
  ### Tools 🛠️
 
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=fff) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belgin-Android&langs_count=8)](https://github.com/belgin-android)
  
