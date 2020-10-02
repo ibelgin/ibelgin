@@ -27,7 +27,6 @@ Hi Guys! I Am Belgin Android. A 17 Year Old Self Learnt Devoloper. Just Complete
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belgin-Android&langs_count=8)](https://github.com/belgin-android)
  
-[![Belgin Androis's github stats](https://github-readme-stats.vercel.app/api?username=belgin-android&show_icons=true&title_color=151515&icon_color=79ff97&text_color=151515f&bg_color=fff)](https://github.com/belgin-android)
 
 
 
