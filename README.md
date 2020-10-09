@@ -20,7 +20,7 @@ Hi Guys! I Am Belgin Android. A 17 Year Old Self Learnt Devoloper. Just Complete
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belgin-Android&langs_count=8)](https://github.com/belgin-android)
+<img src="https://github-readme-stats.vercel.app/api?username=Belgin-Android&count_private=true&show_icons=true" height="170px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belgin-Android&layout=compact" height="170px">
  
 
 
