@@ -19,8 +19,8 @@
 
 ### Find Me Here :raising_hand_man:
 
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/918940900947?text=Hi)](https://wa.me/918940900947?text=Hi)
- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="26">](https://github.com/Belgin-Android)
  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/Belgin_Android/)
+ [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="26">](https://github.com/Belgin-Android)
+ 
  
 <img src="https://github-readme-stats.vercel.app/api?username=Belgin-Android&count_private=true&show_icons=true" height="170px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belgin-Android&layout=compact" height="170px">
