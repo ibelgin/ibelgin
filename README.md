@@ -2,10 +2,10 @@
 
 ## Belgin Here !
 
-I am 17 
-React Native And Python Devoloper
+I am 17 Year Old.
+React Native And Python Devoloper ⚡
 
-### Working With 
+### Currently Learning  👨‍💻
 
    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> React Native
 
@@ -13,7 +13,7 @@ React Native And Python Devoloper
 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> Firebase
 
-### Contact Me Here
+### Find Me Here :raising_hand_man:
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/918940900947?text=Hi)](https://wa.me/918940900947?text=Hi)
  <a href="https://www.instagram.com/belgin_android/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
