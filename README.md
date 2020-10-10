@@ -8,7 +8,7 @@
 - 🤓 I Am 17 . Information Technology Student 
 - 📚 I’m currently learning everything about React Native And Python 😅
 - 💪🏼 Future Goals: Learn more technologies - Never Stop Creating 
-- ⚡ Fun fact: I love to play Football 🎱.
+- ⚡ Fun fact: I love to play Football ⚽️.
 
 ### 👨‍💻 Things that I'm currently working on:
 
