@@ -10,13 +10,13 @@
 - 💪🏼 Future Goals: Learn more technologies - Never Stop Creating 
 - ⚡ Fun fact: I love to play Football ⚽️.
 
-### 👨‍💻 Things that I'm currently working on:
+### Things that I'm currently working on  👨‍💻 
 
-   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> React Native
+ -  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> React Native
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python
+ - <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python
 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> Firebase
+ - <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> Firebase
 
 <p align="center"> 
   <i> Find Me Here ! :raising_hand_man: </i>
