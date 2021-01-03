@@ -14,7 +14,7 @@
 
  -  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> React Native
 
- - <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python
+ - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="20" height="20"/> Python
 
  - <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> Firebase
 
