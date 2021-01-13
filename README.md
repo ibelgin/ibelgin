@@ -5,7 +5,7 @@
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- 🤓 Information Technology Student 
+- 🤓 BTech Information Technology Student 
 - 📚 I’m currently learning everything about React Native And Python 😅
 - 💪🏼 Future Goals: Learn more technologies - Never Stop Creating 
 - ⚡ Fun fact: I love to play Football ⚽️.
