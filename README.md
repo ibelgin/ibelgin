@@ -12,7 +12,7 @@
 
 ### Things that I'm currently working on  👨‍💻 
 
- -  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> React Native
+ -  <img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/react.svg" alt="reactnative" width="20" height="20"/> React Native
 
  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="20" height="20"/> Python
 
