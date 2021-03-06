@@ -19,7 +19,7 @@
  - <img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/firebase-icon.svg" alt="firebase" width="20" height="20"/> Firebase
 
 <p align="center"> 
-  <i> Find Me Here ! :raising_hand_man: </i>
+  <i> Text Me Here ! :raising_hand_man: </i>
 </p>
 
 <p align="center">
