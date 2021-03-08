@@ -7,7 +7,7 @@
 
 - 🤓 Information Technology Student 
 - 📚 I’m currently learning everything about React Native And Python 😅
-- 💪🏼 Future Goals: Learn more technologies - Never Stop Creating 
+- 💪🏼 Future Goals: Learn more technologies - Creating a Million Dollar Company
 - ⚡ Fun fact: I love to play Football ⚽️.
 
 ### Things that I'm currently working on  👨‍💻 
