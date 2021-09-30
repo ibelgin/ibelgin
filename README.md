@@ -30,4 +30,4 @@
 </p>
 
  
-<img src="https://github-readme-stats.vercel.app/api?username=Belgin-Android&count_private=true&show_icons=true" height="170px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belgin-Android&layout=compact" height="170px">
+<img src="https://github-readme-stats.vercel.app/api?username=ibelgin&count_private=true&show_icons=true" height="170px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibelgin&layout=compact" height="170px">
