@@ -24,8 +24,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/belgin-jarosh/"><img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/reactnative.modules"><img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/BelginAndroid"><img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/twitter-round.svg" width="35px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/me.belgin/"><img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/mebelgin"><img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/twitter-round.svg" width="35px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+919042542868"><img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
 
