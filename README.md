@@ -7,7 +7,7 @@
 
 - 🙂 Senior React Native Developer At Coinskite
 - 📚 I’m currently learning everything about React Native And Python 😅
-- 💪🏼 Future Goals: Learn more technologies
+- 💪🏼 Future Goals: Enjoy Life, Create a better living for other's 
 - ⚡ Fun fact: I love to play Football ⚽️.
 
 ### Things that I'm currently working on  👨‍💻 
