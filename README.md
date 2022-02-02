@@ -6,9 +6,10 @@
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 - 🙂 Senior React Native Developer At Coinskite
-- 📚 I’m currently learning everything about React Native And Python 😅
+- 📚 I’m currently learning everything about React Native, Aurdino And Python 😅
 - 💪🏼 Future Goals: Enjoy Life, Create a better living for other's 
-- ⚡ Fun fact: I love to play Football ⚽️.
+- ⚡  Fun fact: I love to play Football ⚽️.
+- ✌️ Created 5+ Apps , 3+ Aurdino project's and took 2+ Seminar's on React Native
 
 ### Things that I'm currently working on  👨‍💻 
 
@@ -19,7 +20,7 @@
  - <img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/firebase-icon.svg" alt="firebase" width="20" height="20"/> Firebase
 
 <p align="center"> 
-  <i>Text Me Here ! :raising_hand_man: </i>
+  <i>Find Me Here ! :raising_hand_man: </i>
 </p>
 
 <p align="center">
