@@ -30,6 +30,3 @@
   <a href="https://twitter.com/mebelgin"><img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/twitter-round.svg" width="35px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+919042542868"><img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
-
- 
-<img src="https://github-readme-stats.vercel.app/api?username=ibelgin&count_private=true&show_icons=true" height="170px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibelgin&layout=compact" height="170px">
