@@ -31,4 +31,4 @@
   <a href="https://api.whatsapp.com/send?phone=+919042542868"><img src="https://github.com/Belgin-Android/Belgin-Android/blob/master/Images/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdalishanali&theme=react" alt="mdalishanali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibelgin&theme=react" alt="ibelgin" /></p>
