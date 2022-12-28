@@ -6,11 +6,11 @@
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 - 🙂 Senior React Native Developer At Coinskite
-- 📚 I’m currently learning everything about React Native, Aurdino And Python 😅
+- 📚 I’m currently learning everything about React Native, Aurdino , NodeJS And Python 😅
 - 🗺 Experience in Designing with Adobe XD and Figma  
 - 💪🏼 Future Goals: Enjoy Life, Create a better living for other's 
 - ⚡  Fun fact: I love to play Football ⚽️.
-- ✌️ Created 5+ Apps , 3+ Aurdino project's and took 2+ Seminar's on React Native
+- ✌️ Created 8+ Apps , 3+ Aurdino project's and took 2+ Seminar's on React Native
 
 ### Things that I'm currently working on  👨‍💻 
 
