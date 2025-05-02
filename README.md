@@ -1,4 +1,1 @@
-
-### Hi 👋
-
-## Belgin Here !
+# Ex-Developer
